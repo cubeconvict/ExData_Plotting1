@@ -9,6 +9,8 @@ This is the output for assignment 1 from
 * plot3.R
 * plot4.R
 
+You can simply source each file to generate the plots.
+source("plot3.R")
 
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
